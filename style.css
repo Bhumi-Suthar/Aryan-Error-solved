@@ -1,0 +1,28 @@
+/* html,
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(0, 121, 118, 1) 39%,
+    rgba(141, 0, 211, 1) 80%,
+    rgba(0, 146, 255, 1) 100%
+  );
+} */
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+}
